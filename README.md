@@ -16,6 +16,7 @@
 ## 🔥 Codewars!
 
 ![codewars](https://www.codewars.com/users/petrfalkovsky/badges/large)
+![Leetcode Stats](https://leetcard.jacoblin.cool/poteryal_trusy?theme=nord)
 
 ## &#x1f4c8; GitHub Stats
 
