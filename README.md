@@ -13,7 +13,7 @@
 ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)
 ![NodeJS](https://img.shields.io/static/v1?style=for-the-badge&message=Nodejs&color=339933&logo=Nodedotjs&logoColor=FFFFFF&label=)
 
-## 🔥 Codewars!
+## 🔥 Codewars and LeetCode
 
 ![codewars](https://www.codewars.com/users/petrfalkovsky/badges/large)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/poteryal_trusy?theme=nord)
