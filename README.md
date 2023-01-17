@@ -16,7 +16,8 @@
 ## 🔥 Codewars and LeetCode
 
 ![codewars](https://www.codewars.com/users/rsschool_d24c5fe0252a74ae/badges/large)
-![Leetcode Stats](https://leetcard.jacoblin.cool/poteryal_trusy?theme=dark)
+> [!NOTE]
+> ![Leetcode Stats](https://leetcard.jacoblin.cool/poteryal_trusy?theme=dark)
 
 ## &#x1f4c8; GitHub Stats
 
