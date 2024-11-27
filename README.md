@@ -1,6 +1,6 @@
 <!-- <div style='font-size:1.2rem;text-align:center;font-weight:500;padding-bottom:1em;'>Hi! I'm Pavel and I'm a Frontend Developer!</div> -->
 
-## Hi! I'm Peter and I'm a frontend and mobile developer!
+## Hi! I'm Peter and I'm a flutter developer!
 
 ## 🔧 Technologies & Tools
 
