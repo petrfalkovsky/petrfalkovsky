@@ -9,6 +9,7 @@
 [![Peter's LinkedI](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poteryal-trusy/)
 [![Peter's Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:peterparker.developer@gmail.com)
 
+
 ---
 
 
@@ -17,6 +18,12 @@
 ![Swift](https://img.shields.io/static/v1?style=for-the-badge&message=Swift&color=F05138&logo=Swift&logoColor=FFFFFF&label=)
 ![Dart](https://img.shields.io/static/v1?style=for-the-badge&message=Dart&color=0175C2&logo=Dart&logoColor=FFFFFF&label=)
 ![Flutter](https://img.shields.io/static/v1?style=for-the-badge&message=Flutter&color=02569B&logo=Flutter&logoColor=FFFFFF&label=)
+
+---
+
+## 📃 CV
+
+[![Peter's CV](https://img.shields.io/badge/CV-GoogleDoc-blue?style=for-the-badge&logoColor=white)](https://img.shields.io/badge/CV-GoogleDoc-blue?style=for-the-badge&logoColor=white)
 
 ## 🔥 Codewars and LeetCode
 
