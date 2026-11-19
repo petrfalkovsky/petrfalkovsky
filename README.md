@@ -23,7 +23,7 @@
 
 ## 📃 CV
 
-[![Peter's CV](https://img.shields.io/badge/CV-GoogleDoc-blue?style=for-the-badge&logoColor=white)](https://img.shields.io/badge/CV-GoogleDoc-blue?style=for-the-badge&logoColor=white)
+[![Peter's CV](https://img.shields.io/badge/CV-GoogleDoc-blue?style=for-the-badge&logoColor=white)](https://peter.greentext.ai/cv/Peter_Parker_CV_US.pdf?v=20261113135616)
 
 ## 🔥 Codewars and LeetCode
 
